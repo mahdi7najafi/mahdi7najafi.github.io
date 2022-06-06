@@ -32,7 +32,7 @@ Education
 ======
 * B.S. Information Technology with Concentration In Data Science, 2016-2020 \
   American University of Afghanistan \
-  GPA: 3.32 \
+  GPA: 3.32
 
 Professional Development 
 ======
