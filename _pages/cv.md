@@ -13,17 +13,11 @@ Skills
 | Expertise                                             | Working Knowledge                                  |
 |:------------------------------------------------------|:--------------------------------------------------:|
 | Programming (Python, R, C++)                          | Statistical Data Analysis                          |
-|------------------------------------------------------------------------------------------------------------|
 | Data Wrangling / Feature Engineering (Python and R)   | Version Control (Git)                              |
-|------------------------------------------------------------------------------------------------------------|
 | SQL Queries (MySQL, PostgreSQL, Presto, BigQuery)     | Data Visualization (Tableau, PowerBi)              |
-|------------------------------------------------------------------------------------------------------------|
 | Regression, Classification, and Clustering Algorithms | Job Scheduler (Automation) using Crontab and Shell |
-|------------------------------------------------------------------------------------------------------------|
 | ETL and Data Pipelines using Apache Kafka, Airflow     |                                                   |
-|------------------------------------------------------------------------------------------------------------|
 | Storage: Hadoop, Hive, Amazon S3                        |                                                  |
-|============================================================================================================|
 
 ## Maybe you can add basic familiarity column later
 {% include base_path %}
