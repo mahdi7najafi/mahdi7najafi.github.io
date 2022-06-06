@@ -10,6 +10,7 @@ redirect_from:
 Skills
 ======
 
+| Expertise                                             | Working Knowledge                                  |
 |:------------------------------------------------------|:--------------------------------------------------:|
 | Programming (Python, R, C++)                          | Statistical Data Analysis                          |
 |------------------------------------------------------------------------------------------------------------|
@@ -24,6 +25,7 @@ Skills
 | Storage: Hadoop, Hive, Amazon S3                        |                                                  |
 |============================================================================================================|
 
+## Maybe you can add basic familiarity column later
 {% include base_path %}
 
 
