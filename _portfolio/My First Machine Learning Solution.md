@@ -1,6 +1,6 @@
 ---
 title: "My First Machine Learning Solution "
-excerpt: "First ML to help with forest dataset..<br/><img src='/images/first-ml.png'>"
+excerpt: "First ML to help with forest dataset.<br/><img src='/images/first-ml.png'>"
 collection: portfolio
 ---
 
