@@ -6,7 +6,7 @@ permalink: /publication/E-Learning.md
 excerpt: 'This study aims to
 understand the factors influencing e-learning effectiveness in the
 context of tertiary education in Afghanistan.'
-date: 2020-21-01
+date: 2020-10-10
 venue: 'ICETC 2019: Proceedings of the 2019 11th International Conference on Education Technology and Computers'
 paperurl: 'http://mahdi7najafi.github.io/files/paper1.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
