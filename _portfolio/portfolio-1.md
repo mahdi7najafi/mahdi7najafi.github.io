@@ -1,6 +1,6 @@
 ---
-title: "Python Project 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Extract Transform Load (ETL)"
+excerpt: "Read csv and json file types, transform them, and save in ready-to-load format which data engineers can use to load into RDBMS.<br/><img src='/images/ETL-Project.png'>"
 collection: portfolio
 ---
 
