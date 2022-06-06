@@ -19,7 +19,8 @@ Skills
 | ETL and Data Pipelines using Apache Kafka, Airflow     |                                                   |
 | Storage: Hadoop, Hive, Amazon S3                        |                                                  |
 
-## Maybe you can add basic familiarity column later
+<!-- Maybe you can add basic familiarity column later -->
+
 {% include base_path %}
 
 
